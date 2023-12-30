@@ -14,3 +14,5 @@ C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud
 C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.csproj.CoreCompileInputs.cache
 C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.exe
 C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.pdb
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\styles.baml
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\GeneratedInternalTypeHelper.g.cs
