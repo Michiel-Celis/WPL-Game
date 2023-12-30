@@ -1,0 +1,16 @@
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\bin\Debug\celis-michiel-c-sherp.exe.config
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\bin\Debug\celis-michiel-c-sherp.exe
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\bin\Debug\celis-michiel-c-sherp.pdb
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.csproj.AssemblyReference.cache
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\MainWindow.g.cs
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\App.g.cs
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp_MarkupCompile.cache
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp_MarkupCompile.lref
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\App.baml
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\MainWindow.baml
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.g.resources
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis_michiel_c_sherp.Properties.Resources.resources
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.csproj.GenerateResource.cache
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.csproj.CoreCompileInputs.cache
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.exe
+C:\Users\12302039\OneDrive\Documenten\PXL\41PRO1060 Werkplekleren 1\Cursusinhoud\Project\WPL-Game\celis-michiel-c-sherp\obj\Debug\celis-michiel-c-sherp.pdb
